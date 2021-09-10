@@ -15,6 +15,10 @@ img.slide{
     
 } 
 
+.col-sm-12{
+    text-align: center;
+}
+
 .jumbotron{
     padding: 1.2rem;
 }
