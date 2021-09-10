@@ -33,15 +33,23 @@ img.slide{
 }
 
 .centerrow{
-    display: block;
+    display: inline-block;
     margin: auto;
+    text-align: center;
+     
+}
+
+.col-lg-3{
+    display: inline-block;
 }
 
 .imgCenter{
     display: block;
     margin: auto;
-    padding: 15px;
+    padding: 25px;
     text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .sectionlight{
